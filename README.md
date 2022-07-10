@@ -1,0 +1,2 @@
+# linuxscript
+practical script 
